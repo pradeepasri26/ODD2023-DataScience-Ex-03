@@ -101,8 +101,8 @@ df.kurtosis()
 ![image](https://github.com/pradeepasri26/ODD2023-DataScience-Ex-03/assets/131433142/b6494943-496b-49ae-902a-78d5881fe59d)
 ![image](https://github.com/pradeepasri26/ODD2023-DataScience-Ex-03/assets/131433142/a1bf94f0-5b35-4bb3-9645-e31ccb4cae1a)
 ![image](https://github.com/pradeepasri26/ODD2023-DataScience-Ex-03/assets/131433142/23a157c4-522b-4635-804a-bb5b0b6a9e05)
+
 ![image](https://github.com/pradeepasri26/ODD2023-DataScience-Ex-03/assets/131433142/eb4e7c1c-ddd4-4a48-aff8-bd9191484881)
-![image](https://github.com/pradeepasri26/ODD2023-DataScience-Ex-03/assets/131433142/071de0b3-39d9-464f-b17b-826b8a6c7989)
 
 ## RESULT
 Hence the univariate analysis is verified.
